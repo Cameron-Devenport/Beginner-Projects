@@ -1,9 +1,4 @@
-Love the idea of learning in public—this is exactly the kind of repo future-you (and recruiters) will appreciate. 🙌
-Here’s a clean, professional **README.md** you can drop straight into your GitHub repo and tweak as you grow.
 
----
-
-```markdown
 # Beginner Projects
 
 ## 📌 About This Repository
