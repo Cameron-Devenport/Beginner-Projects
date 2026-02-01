@@ -59,14 +59,3 @@ Feedback, suggestions, and discussions are welcome. If something can be done bet
 ---
 
 Thanks for stopping by!
-```
-
----
-
-If you want, I can:
-
-* Make this more **casual** or more **resume-friendly**
-* Add a **project table**, roadmap, or progress checklist
-* Tailor it specifically toward **recruiters** or **open-source contributors**
-
-Just say the word. 🚀
